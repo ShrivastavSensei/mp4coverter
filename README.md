@@ -39,7 +39,7 @@ sudo dnf install ffmpeg
 ### One-line install (recommended)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/mp4convert/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/ShrivastavSensei/mp4coverter/main/install.sh | bash
 ```
 
 Restart your terminal after install:
