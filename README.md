@@ -1,4 +1,4 @@
-# mp4convert
+# mp4convert (FOR THE HOUSEHOLD TECHGUYS OUT THERE)
 
 A fast, minimal **MP4 → MP3** command-line converter built on `ffmpeg`.
 
